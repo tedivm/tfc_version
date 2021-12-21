@@ -4,7 +4,6 @@ import httpx
 import semver
 
 response = httpx.get("https://releases.hashicorp.com/terraform/")
-r"terraform_([\d|.|\-|rc|alpha|beta]+)"
 
 VERSIONS = []
 
