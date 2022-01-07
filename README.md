@@ -1,6 +1,6 @@
 # Terraform Cloud Version Manager
 
-This tiny script makes it easy to update the Terraform Version on all of the Workspaces inside Terraform Cloud. It will load a list of Worksapces for an Organization and set their versions to either the latest Terraform version or whatever is specified.
+This tiny script makes it easy to update the Terraform Version on all of the Workspaces inside Terraform Cloud. It will load a list of Workspaces for an Organization and set their versions to either the latest Terraform version or whatever is specified.
 
 ## Installation
 
