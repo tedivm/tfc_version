@@ -6,7 +6,7 @@ name = "tfc_version"
 version = "0.1.0"
 
 [tool.poetry.dependencies]
-httpx = "^0.21.1"
+httpx = "^0.23.0"
 python = "^3.10"
 semver = "^2.13.0"
 terrasnek = "^0.1.7"
